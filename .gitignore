@@ -1,0 +1,9 @@
+node_modules
+browser_ids.json
+config/**/*
+proxy.txt
+token.txt
+user.txt
+proxy copy.txt
+browserid.txt
+main-runed.js
